@@ -1,2 +1,2 @@
-# PythonPractice-Book-Coding-Dojang-
+# PythonPractice (Book : 'Coding Dojang)
 Practicing with book 'Coding Dojang'
